@@ -1,2 +1,2 @@
 # Medical_Calculator
-Third A[[ in Android Bootcamp
+Third program from the Android BootCamp. Demonstrated decision structures.
